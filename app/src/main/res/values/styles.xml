@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.Panol" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#1F3A5F</item>
+        <item name="colorPrimaryDark">#14263F</item>
+        <item name="colorAccent">#1F7A8C</item>
+    </style>
+    <style name="Theme.Panol.Dark" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">#000000</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="colorAccent">#8FB9F2</item>
+    </style>
+</resources>
